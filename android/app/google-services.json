@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436500257063",
+    "project_id": "life-on-campus-007",
+    "storage_bucket": "life-on-campus-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436500257063:android:2316e2f909ebf5b5c43102",
+        "android_client_info": {
+          "package_name": "com.ahmetsapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Z3uj1tUKrKX89maZreWtJD8TNzKjrK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
